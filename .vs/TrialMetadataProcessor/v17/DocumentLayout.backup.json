@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41335CB-629D-48A9-A0A7-8B9092E6A263}|TrialMetadataProcessor.UnitTests\\TrialMetadataProcessor.UnitTests.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.unittests\\filevalidation\\filevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41335CB-629D-48A9-A0A7-8B9092E6A263}|TrialMetadataProcessor.UnitTests\\TrialMetadataProcessor.UnitTests.csproj|solutionrelative:trialmetadataprocessor.unittests\\filevalidation\\filevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41335CB-629D-48A9-A0A7-8B9092E6A263}|TrialMetadataProcessor.UnitTests\\TrialMetadataProcessor.UnitTests.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.unittests\\clinicaltrials\\queries\\gettrialbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41335CB-629D-48A9-A0A7-8B9092E6A263}|TrialMetadataProcessor.UnitTests\\TrialMetadataProcessor.UnitTests.csproj|solutionrelative:trialmetadataprocessor.unittests\\clinicaltrials\\queries\\gettrialbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41335CB-629D-48A9-A0A7-8B9092E6A263}|TrialMetadataProcessor.UnitTests\\TrialMetadataProcessor.UnitTests.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.unittests\\clinicaltrials\\commands\\createtrialcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41335CB-629D-48A9-A0A7-8B9092E6A263}|TrialMetadataProcessor.UnitTests\\TrialMetadataProcessor.UnitTests.csproj|solutionrelative:trialmetadataprocessor.unittests\\clinicaltrials\\commands\\createtrialcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialsbystatus\\gettrialsbystatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialsbystatus\\gettrialsbystatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialsbystatus\\gettrialsbystatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialsbystatus\\gettrialsbystatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialsbyfilter\\gettrialsbyfilterquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialsbyfilter\\gettrialsbyfilterquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF0F41C-385C-4789-800E-A5C254FD1FD3}|TrialMetadataProcessor.Api\\TrialMetadataProcessor.Api.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.api\\controllers\\clinicaltrialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF0F41C-385C-4789-800E-A5C254FD1FD3}|TrialMetadataProcessor.Api\\TrialMetadataProcessor.Api.csproj|solutionrelative:trialmetadataprocessor.api\\controllers\\clinicaltrialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialsbyfilter\\gettrialsbyfilterqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialsbyfilter\\gettrialsbyfilterqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\queries\\queryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\queries\\queryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\queries\\ruleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\queries\\ruleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\queries\\searchinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\queries\\searchinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\queries\\filterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\queries\\filterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\extensions\\queryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\extensions\\queryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\queries\\filtercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\queries\\filtercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\queries\\filteroperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\queries\\filteroperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialbyid\\getclinicaltrialbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialbyid\\getclinicaltrialbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialbyid\\getclinicaltrialbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\queries\\gettrialbyid\\getclinicaltrialbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\dtos\\getclinicaltrialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\dtos\\getclinicaltrialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\dtos\\clinicaltrialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\dtos\\clinicaltrialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\commands\\createclinicaltrial\\createclinicaltrialcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\commands\\createclinicaltrial\\createclinicaltrialcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\clinicaltrials\\commands\\createclinicaltrial\\createclinicaltrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\clinicaltrials\\commands\\createclinicaltrial\\createclinicaltrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\extensions\\formfileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\extensions\\formfileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\common\\models\\filevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\common\\models\\filevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\filevalidation\\models\\jsonschemadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\filevalidation\\models\\jsonschemadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\filevalidation\\models\\jsonschemaproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\filevalidation\\models\\jsonschemaproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\filevalidation\\services\\filevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\filevalidation\\services\\filevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\filevalidation\\services\\ifilevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\filevalidation\\services\\ifilevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\filevalidation\\constants\\filevalidationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\filevalidation\\constants\\filevalidationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|c:\\users\\majar\\source\\repos\\trialmetadataprocessor\\trialmetadataprocessor.application\\filevalidation\\constants\\filevalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F8065-8C88-429A-90AD-8CED6BB9F633}|TrialMetadataProcessor.Application\\TrialMetadataProcessor.Application.csproj|solutionrelative:trialmetadataprocessor.application\\filevalidation\\constants\\filevalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTrialsByStatusQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByStatus\\GetTrialsByStatusQueryHandler.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByStatus\\GetTrialsByStatusQueryHandler.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByStatus\\GetTrialsByStatusQueryHandler.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByStatus\\GetTrialsByStatusQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:08:37.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetTrialsByStatusQuery.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByStatus\\GetTrialsByStatusQuery.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByStatus\\GetTrialsByStatusQuery.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByStatus\\GetTrialsByStatusQuery.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByStatus\\GetTrialsByStatusQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:07:48.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileValidationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.UnitTests\\FileValidation\\FileValidationServiceTests.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.UnitTests\\FileValidation\\FileValidationServiceTests.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.UnitTests\\FileValidation\\FileValidationServiceTests.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.UnitTests\\FileValidation\\FileValidationServiceTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:48:55.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTrialByIdQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.UnitTests\\ClinicalTrials\\Queries\\GetTrialByIdQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.UnitTests\\ClinicalTrials\\Queries\\GetTrialByIdQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.UnitTests\\ClinicalTrials\\Queries\\GetTrialByIdQueryHandlerTests.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.UnitTests\\ClinicalTrials\\Queries\\GetTrialByIdQueryHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:48:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTrialCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.UnitTests\\ClinicalTrials\\Commands\\CreateTrialCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.UnitTests\\ClinicalTrials\\Commands\\CreateTrialCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.UnitTests\\ClinicalTrials\\Commands\\CreateTrialCommandHandlerTests.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.UnitTests\\ClinicalTrials\\Commands\\CreateTrialCommandHandlerTests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:48:06.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClinicalTrialsController.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Api\\Controllers\\ClinicalTrialsController.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Api\\Controllers\\ClinicalTrialsController.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Api\\Controllers\\ClinicalTrialsController.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Api\\Controllers\\ClinicalTrialsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwFMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:42:20.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetTrialsByFilterQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByFilter\\GetTrialsByFilterQueryHandler.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByFilter\\GetTrialsByFilterQueryHandler.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByFilter\\GetTrialsByFilterQueryHandler.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByFilter\\GetTrialsByFilterQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:37:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetTrialsByFilterQuery.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByFilter\\GetTrialsByFilterQuery.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByFilter\\GetTrialsByFilterQuery.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByFilter\\GetTrialsByFilterQuery.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialsByFilter\\GetTrialsByFilterQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:37:28.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetClinicalTrialByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialById\\GetClinicalTrialByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialById\\GetClinicalTrialByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialById\\GetClinicalTrialByIdQueryHandler.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialById\\GetClinicalTrialByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:37:22.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetClinicalTrialByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialById\\GetClinicalTrialByIdQuery.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialById\\GetClinicalTrialByIdQuery.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialById\\GetClinicalTrialByIdQuery.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\Queries\\GetTrialById\\GetClinicalTrialByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:37:19.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetClinicalTrialDto.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\DTOs\\GetClinicalTrialDto.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\DTOs\\GetClinicalTrialDto.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\DTOs\\GetClinicalTrialDto.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\DTOs\\GetClinicalTrialDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:37:12.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClinicalTrialDto.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\DTOs\\ClinicalTrialDto.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\DTOs\\ClinicalTrialDto.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\DTOs\\ClinicalTrialDto.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\DTOs\\ClinicalTrialDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:37:11.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateClinicalTrialCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Commands\\CreateClinicalTrial\\CreateClinicalTrialCommandHandler.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\Commands\\CreateClinicalTrial\\CreateClinicalTrialCommandHandler.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Commands\\CreateClinicalTrial\\CreateClinicalTrialCommandHandler.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\Commands\\CreateClinicalTrial\\CreateClinicalTrialCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:37:07.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateClinicalTrialCommand.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Commands\\CreateClinicalTrial\\CreateClinicalTrialCommand.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\ClinicalTrials\\Commands\\CreateClinicalTrial\\CreateClinicalTrialCommand.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\ClinicalTrials\\Commands\\CreateClinicalTrial\\CreateClinicalTrialCommand.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\ClinicalTrials\\Commands\\CreateClinicalTrial\\CreateClinicalTrialCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:37:03.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:36:41.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:36:18.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Models\\FileValidationResult.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Models\\FileValidationResult.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Models\\FileValidationResult.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Models\\FileValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:36:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchInfo.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\SearchInfo.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Queries\\SearchInfo.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\SearchInfo.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Queries\\SearchInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:33:46.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FilterCondition.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\FilterCondition.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Queries\\FilterCondition.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\FilterCondition.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Queries\\FilterCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:32:56.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FilterOperator.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\FilterOperator.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Queries\\FilterOperator.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\FilterOperator.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Queries\\FilterOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:32:53.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFileValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Services\\IFileValidationService.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\FileValidation\\Services\\IFileValidationService.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Services\\IFileValidationService.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\FileValidation\\Services\\IFileValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:32:01.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:32:00.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QueryableExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Extensions\\QueryableExtensions.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Extensions\\QueryableExtensions.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Extensions\\QueryableExtensions.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Extensions\\QueryableExtensions.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwIQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:26:53.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JsonSchemaProperties.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Models\\JsonSchemaProperties.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\FileValidation\\Models\\JsonSchemaProperties.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Models\\JsonSchemaProperties.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\FileValidation\\Models\\JsonSchemaProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:20:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JsonSchemaData.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Models\\JsonSchemaData.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\FileValidation\\Models\\JsonSchemaData.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Models\\JsonSchemaData.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\FileValidation\\Models\\JsonSchemaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:20:01.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileValidationMessages.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Constants\\FileValidationMessages.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\FileValidation\\Constants\\FileValidationMessages.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Constants\\FileValidationMessages.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\FileValidation\\Constants\\FileValidationMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:19:59.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileValidationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Constants\\FileValidationConstants.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\FileValidation\\Constants\\FileValidationConstants.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Constants\\FileValidationConstants.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\FileValidation\\Constants\\FileValidationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:19:58.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Services\\FileValidationService.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\FileValidation\\Services\\FileValidationService.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\FileValidation\\Services\\FileValidationService.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\FileValidation\\Services\\FileValidationService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:27:40.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormFileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Extensions\\FormFileExtensions.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Extensions\\FormFileExtensions.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Extensions\\FormFileExtensions.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Extensions\\FormFileExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:37:26.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilterInfo.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\FilterInfo.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Queries\\FilterInfo.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\FilterInfo.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Queries\\FilterInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:57:53.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RuleInfo.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\RuleInfo.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Queries\\RuleInfo.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\RuleInfo.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Queries\\RuleInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:56:58.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueryInfo.cs",
+              "DocumentMoniker": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\QueryInfo.cs",
+              "RelativeDocumentMoniker": "TrialMetadataProcessor.Application\\Common\\Queries\\QueryInfo.cs",
+              "ToolTip": "C:\\Users\\majar\\source\\repos\\TrialMetadataProcessor\\TrialMetadataProcessor.Application\\Common\\Queries\\QueryInfo.cs",
+              "RelativeToolTip": "TrialMetadataProcessor.Application\\Common\\Queries\\QueryInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:55:24.552Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

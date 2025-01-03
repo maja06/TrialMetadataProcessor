@@ -1,0 +1,16 @@
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMetadataProcessor.Application.csproj.AssemblyReference.cache
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMetadataProcessor.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMetadataProcessor.Application.AssemblyInfoInputs.cache
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMetadataProcessor.Application.AssemblyInfo.cs
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMetadataProcessor.Application.csproj.CoreCompileInputs.cache
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMetadataProcessor.Application.sourcelink.json
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\bin\Debug\net8.0\TrialMetadataProcessor.Application.deps.json
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\bin\Debug\net8.0\TrialMetadataProcessor.Application.dll
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\bin\Debug\net8.0\TrialMetadataProcessor.Application.pdb
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\bin\Debug\net8.0\TrialMetadataProcessor.Domain.dll
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\bin\Debug\net8.0\TrialMetadataProcessor.Domain.pdb
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMet.B2DDA325.Up2Date
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMetadataProcessor.Application.dll
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\refint\TrialMetadataProcessor.Application.dll
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\TrialMetadataProcessor.Application.pdb
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Application\obj\Debug\net8.0\ref\TrialMetadataProcessor.Application.dll

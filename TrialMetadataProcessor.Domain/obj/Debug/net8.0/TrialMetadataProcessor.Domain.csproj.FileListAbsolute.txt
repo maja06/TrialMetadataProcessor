@@ -1,0 +1,13 @@
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\TrialMetadataProcessor.Domain.csproj.AssemblyReference.cache
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\TrialMetadataProcessor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\TrialMetadataProcessor.Domain.AssemblyInfoInputs.cache
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\TrialMetadataProcessor.Domain.AssemblyInfo.cs
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\TrialMetadataProcessor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\TrialMetadataProcessor.Domain.sourcelink.json
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\bin\Debug\net8.0\TrialMetadataProcessor.Domain.deps.json
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\bin\Debug\net8.0\TrialMetadataProcessor.Domain.dll
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\bin\Debug\net8.0\TrialMetadataProcessor.Domain.pdb
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\TrialMetadataProcessor.Domain.dll
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\refint\TrialMetadataProcessor.Domain.dll
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\TrialMetadataProcessor.Domain.pdb
+C:\Users\majar\source\repos\TrialMetadataProcessor\TrialMetadataProcessor.Domain\obj\Debug\net8.0\ref\TrialMetadataProcessor.Domain.dll

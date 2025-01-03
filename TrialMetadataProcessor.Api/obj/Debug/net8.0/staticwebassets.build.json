@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6z9DjzaZEGDNcF2qUm7ouRU/Ogv0ONjChEKl0d8SiyY=",
+  "Source": "TrialMetadataProcessor.Api",
+  "BasePath": "_content/TrialMetadataProcessor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
